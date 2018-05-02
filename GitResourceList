@@ -1,4 +1,4 @@
-The goal here is to gather up some resources that are useful for learning Git. 
+The goal here is to gather up some resources that are useful for learning Git.  
 
 # General Novice Websites 
 - [Version Control with Git, Software Carpentry](http://swcarpentry.github.io/git-novice/)
@@ -7,6 +7,7 @@ The goal here is to gather up some resources that are useful for learning Git.
 # On Branching 
 - [Successful Git Branching Model, Vincent Driessen](http://nvie.com/posts/a-successful-git-branching-model/)
 - [Learn Git Branching](https://learngitbranching.js.org/)
+- [Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 
 # Books 
 - [Pro Git, Scott Chacon and Ben Straub](https://book.git-scm.com/book/en/v2)
@@ -20,4 +21,6 @@ The goal here is to gather up some resources that are useful for learning Git.
 # Videos on Youtube 
 - [Intro to Git by Scott Cacon](https://www.youtube.com/watch?v=ZDR433b0HJY)
 He speaks SUPER fast.
+- [Git for Ages 4 and Up, Linux Conf](https://www.youtube.com/watch?v=1ffBJ4sVUb4)
+Have not watched this. 
 
