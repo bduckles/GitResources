@@ -17,10 +17,12 @@ The goal here is to gather up some resources that are useful for learning Git.
 # Advice 
 - [Reflections, Suzan Baert](https://suzan.rbind.io/2018/03/reflections-4-months-of-github/)
 
-
 # Videos on Youtube 
 - [Intro to Git by Scott Cacon](https://www.youtube.com/watch?v=ZDR433b0HJY)
 He speaks SUPER fast.
 - [Git for Ages 4 and Up, Linux Conf](https://www.youtube.com/watch?v=1ffBJ4sVUb4)
 Have not watched this. 
 
+# Git Humor
+
+![XKCD FTW](https://imgs.xkcd.com/comics/git_2x.png)
