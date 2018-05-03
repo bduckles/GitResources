@@ -13,6 +13,12 @@ The goal here is to gather up some resources that are useful for learning Git.
 - [Pro Git, Scott Chacon and Ben Straub](https://book.git-scm.com/book/en/v2)
 - [Happy Git and GitHub with R, Jenny Bryan and TAs](http://happygitwithr.com/)
 
+# Workflows 
+- [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html) - A branching model for developing using git.
+
+# Lessons 
+- [Software Carpentry](http://swcarpentry.github.io/git-novice/) - Git Novice Lesson for teaching Git to Novices.
+- [Learn Git branching](https://learngitbranching.js.org/) - An interactive lesson about Git branching
 
 # Advice 
 - [Reflections, Suzan Baert](https://suzan.rbind.io/2018/03/reflections-4-months-of-github/)
